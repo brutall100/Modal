@@ -1,2 +1,2 @@
 # Modal
- Teaching How to use MODAL
+ Teaching using MODAL
